@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
  <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasaswinpalukuri&theme=swift" height="180em" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roymachinelearning&theme=swift" height="180em"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasaswinpalukuri&theme=swift" height="180em"  />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasaswinpalukuri&theme=swift" height="180em" />
 
 </div>
 
