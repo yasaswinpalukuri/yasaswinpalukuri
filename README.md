@@ -1,59 +1,111 @@
-## Hi there 👋
-
-<!--
-**yasaswinpalukuri/yasaswinpalukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div> <a href="(https://www.linkedin.com/in/yasaswin-palukuri/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="https://www.kaggle.com/palukuriyasaswin" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-
-<a href = "mailto:palukuriyasaswinkumar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-
-
-
-
-
-<h3 align="center">Statistics</h3>
-
- <div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasaswinpalukuri&theme=swift" height="180em" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasaswinpalukuri&theme=swift" height="180em"  />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasaswinpalukuri&theme=swift" height="180em" />
-
-</div>
-
-<br/>
-
-<h3 align="center">Highlights</h3>
-
-
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasaswinpalukuri&theme=swift&row=2&column=3"/></div>
+# Yasaswin Palukuri
+**Data Engineer · AI/ML Engineer · LLMOps Engineer**
 
- <div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaswin-palukuri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yasaswinpalukuri)
+[![Location](https://img.shields.io/badge/Toronto%2C%20Canada-🍁-red)](https://www.google.com/maps/place/Toronto)
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=yasaswinpalukuri&label=Profile%20views&color=0e75b6&style=flat"/>
+---
 
+## What I'm Building
+
+**[Groot](https://github.com/yasaswinpalukuri/Groot-Agent-System)** — A self-hosted multi-agent AI system running 24/7 on bare metal hardware. 6 autonomous agents (Groot, Einstein, Tony, Siva, Job Search, Career) orchestrated via LangGraph + FastAPI, with Ollama for CPU-only local inference, Hybrid RAG (BM25 + dense vectors), Slack/Telegram integrations, and a live React dashboard.
+
+> Not a demo. Running right now on a Lenovo M720Q in Toronto.
+
+---
+
+## Current Stack
+
+```python
+stack = {
+    "languages":   ["Python", "SQL", "Java", "PySpark"],
+    "ai_ml":       ["LangGraph", "Ollama", "ChromaDB", "LangChain",
+                    "FastAPI", "MLflow", "SHAP", "Scikit-learn"],
+    "data":        ["AWS Glue", "S3", "Lambda", "Redshift",
+                    "Apache Spark", "Hadoop", "Kafka"],
+    "devops":      ["Docker", "Git", "Pytest", "Ruff", "Bandit", "CI/CD"],
+    "viz":         ["Tableau", "Power BI", "Streamlit"],
+    "currently":   ["LLMOps", "Agentic AI", "Self-hosted inference"],
+}
+```
+
+---
+
+## Projects
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| [Groot Multi-Agent System](https://github.com/yasaswinpalukuri/Groot-Agent-System) | LangGraph · FastAPI · Ollama · ChromaDB · Docker | 🟢 Live |
+| LLM Eval / Red-Teaming Framework | DeepEval · Llama Guard · Python | 🟡 Building |
+| Text-to-SQL (qwen2.5-coder) | Python · SQLite · FastAPI | 🟡 Planned |
+| Credit Risk Scoring with XAI | SHAP · Scikit-learn · Streamlit | ✅ Complete |
+
+---
+
+## Groot Architecture (running on my desk right now)
+
+```
+┌─────────────────────────────────────────────┐
+│              Lenovo M720Q                    │
+│         i5-8500T · 16GB · Ubuntu 22.04      │
+├─────────────────────────────────────────────┤
+│  Groot (Supervisor)    → qwen2.5:7b         │
+│  Einstein (Researcher) → deepseek-r1:14b    │
+│  Tony (Developer)      → qwen2.5-coder:7b   │
+│  Siva (Tutor)          → phi3:medium        │
+│  Job Search Agent      → qwen2.5:7b         │
+│  Career Agent          → mistral:7b         │
+├─────────────────────────────────────────────┤
+│  Hybrid RAG · BM25(40%) + Dense(60%)        │
+│  6 ChromaDB collections · RBAC enforced     │
+│  guardrails-ai · Ragas evals                │
+│  Slack (9ch) · Telegram · n8n workflows     │
+│  React dashboard · Tailscale VPN            │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## Ragas Eval Results (Groot RAG Pipeline)
+
+| Metric | Score |
+|--------|-------|
+| Faithfulness | **1.000** |
+| Answer Relevancy | **0.676** |
+| Overall | **0.838** |
+
+*Evaluated with qwen2.5:7b as judge · nomic-embed-text embeddings*
+
+---
+
+## Experience
+
+- **Verita Network** — Data Engineer (Volunteer) · AWS ETL pipelines (S3, Glue, Lambda, Redshift) · May 2026–present
+- **Groot Project** — LLMOps Engineer · Self-directed · Jan 2026–present
+- **Credit Risk XAI** — ML Engineer · SHAP + Scikit-learn · May–Jun 2025
+
+---
+
+## Education
+
+- 🎓 **Lambton College** — Graduate Certificate, AI & Machine Learning (2025)
+- 🎓 **KL University** — B.Tech (Honors), Computer Science (2023)
+
+---
+
+## Open To
+
+`Data Engineer` · `ML Engineer` · `LLMOps Engineer` · `AI Engineer`
+
+Remote · Toronto · Vancouver · India
+
+---
+
+<div align="center">
+<i>Building Groot one agent at a time.</i>
 </div>
