@@ -41,7 +41,7 @@ stack = {
 | Project | Stack | Status |
 |---------|-------|--------|
 | [Groot Multi-Agent System](https://github.com/yasaswinpalukuri/Groot-Agent-System) | LangGraph · FastAPI · Ollama · ChromaDB · Docker | 🟢 Live |
-| LLM Eval / Red-Teaming Framework | DeepEval · Llama Guard · Python | 🟡 Building |
+| LLM Eval / Red-Teaming Framework | DeepEval · Llama Guard · Python | 🟡 Planned |
 | Text-to-SQL (qwen2.5-coder) | Python · SQLite · FastAPI | 🟡 Planned |
 | Credit Risk Scoring with XAI | SHAP · Scikit-learn · Streamlit | ✅ Complete |
 
