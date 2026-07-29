@@ -107,7 +107,8 @@ now = {
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasaswinpalukuri&theme=github_dark" alt="GitHub stats" height="180">
-<img src="https://streak-stats.demolab.com?user=yasaswinpalukuri&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=58A6FF&sideNums=E6EDF3&dates=8B949E" alt="Contribution streak" height="180">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasaswinpalukuri&bg_color=0D1117&color=8B949E&line=58A6FF&point=BC8CFF&hide_border=true&area=true&area_color=58A6FF" alt="Contribution activity graph" width="100%">
 
 </div>
 
