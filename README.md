@@ -106,8 +106,8 @@ now = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=yasaswinpalukuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=BC8CFF&hide_title=true" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=yasaswinpalukuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top languages" height="160">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasaswinpalukuri&theme=github_dark" alt="GitHub stats" height="180">
+<img src="https://streak-stats.demolab.com?user=yasaswinpalukuri&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=58A6FF&sideNums=E6EDF3&dates=8B949E" alt="Contribution streak" height="180">
 
 </div>
 
