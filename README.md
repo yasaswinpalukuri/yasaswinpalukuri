@@ -51,6 +51,17 @@ A self-hosted **6-agent AI system** running 24/7 on bare metal — LangGraph orc
 |:---:|:---:|:---:|
 | **1.000** | 0.676 | 0.838 |
 
+## Projects
+
+| Project | Stack | Status |
+|---|---|:---:|
+| [Groot Multi-Agent System](https://github.com/yasaswinpalukuri/Groot-Agent-System) | LangGraph · Ollama · ChromaDB · guardrails-ai · Ragas | 🟢 Live |
+| Multi-Turn Conversational Data Assistant | Python · Pytest (74 tests) · CI | ✅ Complete |
+| LLM-Powered Resume Screener | FastAPI · Pydantic · Ollama | ✅ Complete |
+| LLM Red-Teaming & Eval Framework | Ragas · Pytest · guardrails-ai | ✅ Complete |
+| Text-to-SQL Engine | qwen2.5-coder:7b · Python | ✅ Complete |
+| Structured Data Extractor | Pydantic · Notion API | 🟡 Building |
+
 ## Stack
 
 **AI/ML & LLMOps**<br>
@@ -95,8 +106,8 @@ now = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasaswinpalukuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=BC8CFF&hide_title=true" alt="GitHub stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasaswinpalukuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top languages" height="160">
+<img src="https://github-readme-stats.hackclub.dev/api?username=yasaswinpalukuri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=BC8CFF&hide_title=true" alt="GitHub stats" height="160">
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=yasaswinpalukuri&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" alt="Top languages" height="160">
 
 </div>
 
