@@ -60,7 +60,7 @@ A self-hosted **6-agent AI system** running 24/7 on bare metal — LangGraph orc
 | LLM-Powered Resume Screener | FastAPI · Pydantic · Ollama | ✅ Complete |
 | LLM Red-Teaming & Eval Framework | Ragas · Pytest · guardrails-ai | ✅ Complete |
 | Text-to-SQL Engine | qwen2.5-coder:7b · Python | ✅ Complete |
-| Structured Data Extractor | Pydantic · Notion API | 🟡 Building |
+| Structured Data Extractor | Pydantic · Notion API | ✅ Complete |
 
 ## Stack
 
